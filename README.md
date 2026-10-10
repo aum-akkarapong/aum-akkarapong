@@ -2,11 +2,12 @@
 
 # Akkarapong
 
-**Network & Security Engineer | Full-Stack Developer**
+<a href="https://github.com/aum-akkarapong"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=620&lines=Network+%26+Security+Engineer;Defensive+tooling+and+traffic+analysis;Full-Stack+Developer;Turning+complex+systems+into+clear+visuals" alt="Network & Security Engineer, Full-Stack Developer" /></a>
 
-<a href="mailto:aumakkara@gmail.com"><img src="https://img.shields.io/badge/Email-aumakkara%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/akkarapong25"><img src="https://img.shields.io/badge/GitHub-akkarapong25-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://img.shields.io/badge/Location-Bangkok%2C%20Thailand-2EA44F?style=flat-square" alt="Location" />
+<a href="mailto:aumakkara@gmail.com"><img src="https://img.shields.io/badge/Email-aumakkara%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/aum-akkarapong"><img src="https://img.shields.io/badge/GitHub-aum--akkarapong-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/Based_in-Bangkok%2C_Thailand-2EA44F?style=for-the-badge" alt="Location" />
+<img src="https://img.shields.io/badge/Status-Open_to_work-F97316?style=for-the-badge" alt="Open to work" />
 
 </div>
 
@@ -20,7 +21,52 @@ My focus is defensive security and network engineering: packet capture and proto
 
 I also deliver production web systems for clients with React, TypeScript, Node.js, Python and SQL, including multi-role dashboards, real-time data and AI automation.
 
-I am looking for roles in Network Engineering, Security Operations (SOC / Blue Team) or Full-Stack Development.
+<br>
+
+## Areas of Focus
+
+<table>
+<tr>
+<th width="33%">Network Engineering</th>
+<th width="33%">Security Operations</th>
+<th width="33%">Full-Stack Development</th>
+</tr>
+<tr>
+<td valign="top">
+
+Switching, VLANs and IP addressing. OSPF and BGP routing, NAT and ACLs. Layer 2 to 7 protocol analysis and enterprise network design.
+
+</td>
+<td valign="top">
+
+Traffic monitoring and threat detection. Alert triage with MITRE ATT&CK, NIST CSF and CIS Controls. Endpoint visibility and audit logging.
+
+</td>
+<td valign="top">
+
+React, Next.js and TypeScript front ends. Python and Node.js APIs with SQL storage. Real-time streaming, testing and CI.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Portfolio at a Glance
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="150"><h2>378</h2><sub>lessons authored<br>across two platforms</sub></td>
+<td align="center" width="150"><h2>242</h2><sub>animated scenes and<br>interactive visualisations</sub></td>
+<td align="center" width="150"><h2>19</h2><sub>attack simulations<br>mapped to ATT&CK</sub></td>
+<td align="center" width="150"><h2>9</h2><sub>streaming network<br>detection rules</sub></td>
+<td align="center" width="150"><h2>500 ms</h2><sub>real-time system<br>metrics cadence</sub></td>
+</tr>
+</table>
+
+</div>
 
 <br>
 
@@ -30,7 +76,7 @@ I am looking for roles in Network Engineering, Security Operations (SOC / Blue T
 <tr>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/akkarapong25/Network-Traffic-Analyzer">Network Traffic Analyzer</a></h3>
+<h3><a href="https://github.com/aum-akkarapong/Network-Traffic-Analyzer">Network Traffic Analyzer</a></h3>
 
 Defensive network monitoring platform. Captures live traffic or reads PCAP files, decodes layers 2 to 7 (ARP, TCP/UDP, DNS, HTTP, TLS SNI) and runs 9 streaming detection rules for port scans, SYN floods, ARP spoofing and brute force, each mapped to MITRE ATT&CK, with a SOC dashboard for alert triage.
 
@@ -44,7 +90,7 @@ Defensive network monitoring platform. Captures live traffic or reads PCAP files
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/akkarapong25/sentinel-pc">Sentinel PC</a></h3>
+<h3><a href="https://github.com/aum-akkarapong/sentinel-pc">Sentinel PC</a></h3>
 
 Real-time Windows system monitor. Streams CPU, GPU, memory, disk and network metrics every 500 ms over Server-Sent Events, with a process and service manager protected by deny lists, target re-verification and an audit log. Runs on localhost only with zero telemetry.
 
@@ -60,7 +106,7 @@ Real-time Windows system monitor. Streams CPU, GPU, memory, disk and network met
 <tr>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/akkarapong25/cyber-security-interactive-learning">Cyber Security Interactive Learning</a></h3>
+<h3><a href="https://github.com/aum-akkarapong/cyber-security-interactive-learning">Cyber Security Interactive Learning</a></h3>
 
 Security curriculum taught through animation. 235 lessons in 19 modules, 172 animated scenes, 19 attack simulations mapped to MITRE ATT&CK, 14 guided labs, a synthetic SOC dashboard and 25 tools including a CVSS calculator and a firewall rule builder.
 
@@ -73,7 +119,7 @@ Security curriculum taught through animation. 235 lessons in 19 modules, 172 ani
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/akkarapong25/network-engineer-learning-hub">Network Engineer Learning Hub</a></h3>
+<h3><a href="https://github.com/aum-akkarapong/network-engineer-learning-hub">Network Engineer Learning Hub</a></h3>
 
 Interactive networking curriculum aligned with CCNA 200-301. 143 lessons across 18 tracks and 70 step-through visualisations of frames, NAT and TCP windows, plus tools for subnetting, VLSM, OSPF paths and BGP best-path selection.
 
@@ -113,6 +159,8 @@ Interactive networking curriculum aligned with CCNA 200-301. 143 lessons across 
 <img src="https://img.shields.io/badge/PCAP%20Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="PCAP Analysis" />
 <img src="https://img.shields.io/badge/Scapy-2B5B84?style=flat-square" alt="Scapy" />
 <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-C8102E?style=flat-square" alt="MITRE ATT&CK" />
+<img src="https://img.shields.io/badge/NIST%20CSF-1F2937?style=flat-square" alt="NIST CSF" />
+<img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP Top 10" />
 </td>
 </tr>
 <tr>
@@ -121,6 +169,7 @@ Interactive networking curriculum aligned with CCNA 200-301. 143 lessons across 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square" alt="Windows" />
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+<img src="https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco IOS" />
 </td>
 </tr>
 <tr>
@@ -174,6 +223,8 @@ Interactive networking curriculum aligned with CCNA 200-301. 143 lessons across 
 **Honest data.** If a value cannot be measured, it is shown as unavailable with a reason, never as a guess.
 
 **Tested and validated.** Unit and end-to-end tests, schema-validated content and continuous integration on every push.
+
+**Built to teach.** Complex systems explained step by step, with every claim tied to standards and cited sources.
 
 <br>
 
