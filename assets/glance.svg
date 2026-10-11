@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="9 detection rules, 19 attack simulations, 378 lessons, 242 animated scenes, L2 to L7 decoding">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}.f{opacity:0;animation:in .6s ease forwards}@keyframes in{to{opacity:1}}</style>
+<rect x="1" y="1" width="1198" height="148" rx="12" fill="#0b0f14" stroke="#1f2a36"/>
+<g class="f" style="animation-delay:0.00s"><text x="121" y="40" font-size="12" fill="#4fd1c5" text-anchor="middle">detection_rules</text><text x="121" y="88" font-size="40" font-weight="700" fill="#f5a524" text-anchor="middle">9</text><text x="121" y="118" font-size="12" fill="#6b7a8c" text-anchor="middle">streaming network detections</text></g>
+<line x1="241" y1="22" x2="241" y2="128" stroke="#1f2a36"/>
+<g class="f" style="animation-delay:0.15s"><text x="360" y="40" font-size="12" fill="#4fd1c5" text-anchor="middle">attack_sims</text><text x="360" y="88" font-size="40" font-weight="700" fill="#f5a524" text-anchor="middle">19</text><text x="360" y="118" font-size="12" fill="#6b7a8c" text-anchor="middle">mapped to MITRE ATT&amp;CK</text></g>
+<line x1="480" y1="22" x2="480" y2="128" stroke="#1f2a36"/>
+<g class="f" style="animation-delay:0.30s"><text x="600" y="40" font-size="12" fill="#4fd1c5" text-anchor="middle">lessons</text><text x="600" y="88" font-size="40" font-weight="700" fill="#f5a524" text-anchor="middle">378</text><text x="600" y="118" font-size="12" fill="#6b7a8c" text-anchor="middle">security and network curriculum</text></g>
+<line x1="720" y1="22" x2="720" y2="128" stroke="#1f2a36"/>
+<g class="f" style="animation-delay:0.45s"><text x="840" y="40" font-size="12" fill="#4fd1c5" text-anchor="middle">scenes</text><text x="840" y="88" font-size="40" font-weight="700" fill="#f5a524" text-anchor="middle">242</text><text x="840" y="118" font-size="12" fill="#6b7a8c" text-anchor="middle">animated attacks and protocols</text></g>
+<line x1="959" y1="22" x2="959" y2="128" stroke="#1f2a36"/>
+<g class="f" style="animation-delay:0.60s"><text x="1079" y="40" font-size="12" fill="#4fd1c5" text-anchor="middle">decode_depth</text><text x="1079" y="88" font-size="40" font-weight="700" fill="#f5a524" text-anchor="middle">L2-L7</text><text x="1079" y="118" font-size="12" fill="#6b7a8c" text-anchor="middle">decoded from raw bytes</text></g>
+</svg>

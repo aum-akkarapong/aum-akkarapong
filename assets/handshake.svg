@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 1200 170" width="1200" height="170" role="img" aria-label="Open to opportunities in cyber security, SOC and network engineering">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}.a{stroke-dasharray:420;stroke-dashoffset:420;animation:d 1s ease forwards}@keyframes d{to{stroke-dashoffset:0}}.f{opacity:0;animation:in .5s ease forwards}@keyframes in{to{opacity:1}}</style>
+<defs><marker id="h" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#4fd1c5"/></marker></defs>
+<rect x="1" y="1" width="1198" height="168" rx="12" fill="#0b0f14" stroke="#1f2a36"/>
+<text x="140" y="44" font-size="15" fill="#d6dee8" text-anchor="middle">you</text>
+<text x="1060" y="44" font-size="15" fill="#f5a524" text-anchor="middle">akkarapong</text>
+<line x1="140" y1="56" x2="140" y2="150" stroke="#1f2a36"/><line x1="1060" y1="56" x2="1060" y2="150" stroke="#1f2a36"/>
+<line class="a" style="animation-delay:0.0s" x1="140" y1="78" x2="1054" y2="78" stroke="#4fd1c5" stroke-width="1.5" marker-end="url(#h)" pathLength="420"/>
+<text class="f" style="animation-delay:0.3s" x="600.0" y="72" font-size="13" fill="#d6dee8" text-anchor="middle"><tspan fill="#f5a524">[SYN]</tspan>  an opportunity in security or networking</text>
+<line class="a" style="animation-delay:0.7s" x1="1060" y1="108" x2="146" y2="108" stroke="#4fd1c5" stroke-width="1.5" marker-end="url(#h)" pathLength="420"/>
+<text class="f" style="animation-delay:1.0s" x="600.0" y="102" font-size="13" fill="#d6dee8" text-anchor="middle"><tspan fill="#f5a524">[SYN, ACK]</tspan>  open to work, happy to talk</text>
+<line class="a" style="animation-delay:1.4s" x1="140" y1="138" x2="1054" y2="138" stroke="#4fd1c5" stroke-width="1.5" marker-end="url(#h)" pathLength="420"/>
+<text class="f" style="animation-delay:1.7s" x="600.0" y="132" font-size="13" fill="#d6dee8" text-anchor="middle"><tspan fill="#f5a524">[ACK]</tspan>  connection established</text>
+</svg>

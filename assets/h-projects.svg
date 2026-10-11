@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 1200 62" width="1200" height="62" role="img" aria-label="FEATURED PROJECTS">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}</style>
+<rect x="1" y="1" width="1198" height="60" rx="10" fill="#0b0f14" stroke="#1f2a36"/>
+<rect x="1" y="1" width="6" height="60" rx="3" fill="#f5a524"/>
+<polygon points="28,24 38,31 28,38" fill="#4fd1c5"/>
+<text x="52" y="38" font-size="15" fill="#f5a524">0x04</text>
+<text x="106" y="38" font-size="20" font-weight="700" letter-spacing="4" fill="#d6dee8">FEATURED PROJECTS</text>
+<line x1="398" y1="31" x2="996" y2="31" stroke="#2a3a4a" stroke-dasharray="2 6"/>
+<text x="1172" y="37" font-size="14" fill="#6b7a8c" text-anchor="end">payload  4 captures</text>
+</svg>
