@@ -115,6 +115,23 @@ Interactive networking curriculum aligned with CCNA 200-301. 143 lessons across 
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+<sub><code>capture 05</code></sub>
+<h3><a href="https://github.com/aum-akkarapong/nexus-network-explorer">NEXUS Network Explorer</a></h3>
+
+3D digital twin of an enterprise network and smart factory. Models 1,602 devices across a warehouse, offices, a 64-cabinet data centre and eight PCB lines on a 192.168.0.0/16 plan, with 84 department and device-type VLANs, a routed core with VRRP and OSPF, default-deny inter-zone policy and structured cabling down to every wall outlet. Live packet simulation, link-failure rerouting and an N-1 sweep prove zero network single points of failure.
+
+<img src="https://img.shields.io/badge/TypeScript-0b0f14?style=flat-square&labelColor=0b0f14&logo=typescript&logoColor=f5a524" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-0b0f14?style=flat-square&labelColor=0b0f14&logo=react&logoColor=f5a524" alt="React" />
+<img src="https://img.shields.io/badge/Three.js-0b0f14?style=flat-square&labelColor=0b0f14&logo=threedotjs&logoColor=f5a524" alt="Three.js" />
+<img src="https://img.shields.io/badge/VLAN%20%26%20ACL-0b0f14?style=flat-square&labelColor=0b0f14" alt="VLAN & ACL" />
+<img src="https://img.shields.io/badge/OSPF-0b0f14?style=flat-square&labelColor=0b0f14&logo=cisco&logoColor=f5a524" alt="OSPF" />
+<img src="https://img.shields.io/badge/Network%20Design-0b0f14?style=flat-square&labelColor=0b0f14" alt="Network Design" />
+
+</td>
+</tr>
 </table>
 
 <br>
