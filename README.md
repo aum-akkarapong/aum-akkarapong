@@ -1,244 +1,68 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aum-akkarapong/aum-akkarapong/main/assets/banner.svg" width="100%" alt="Akkarapong, Cyber Security and Network Engineer" />
+![Akkarapong — learning through projects](assets/banner.svg)
 
-<a href="mailto:aumakkara@gmail.com"><img src="https://img.shields.io/badge/mail-aumakkara%40gmail.com-0b0f14?style=for-the-badge&labelColor=f5a524&logo=gmail&logoColor=0b0f14" alt="Email" /></a> 
-<a href="https://github.com/aum-akkarapong"><img src="https://img.shields.io/badge/github-aum--akkarapong-0b0f14?style=for-the-badge&labelColor=4fd1c5&logo=github&logoColor=0b0f14" alt="GitHub" /></a> 
-<img src="https://img.shields.io/badge/status-open_to_work-0b0f14?style=for-the-badge&labelColor=d6dee8" alt="Open to work" />
+**Learning the fundamentals. Building projects. Improving step by step.**
+
+[GitHub](https://github.com/aum-akkarapong) · [Email](mailto:aumakkara@gmail.com)
 
 </div>
 
-<br>
+## Hi, I'm Akkarapong
 
-<img src="https://raw.githubusercontent.com/aum-akkarapong/aum-akkarapong/main/assets/h-about.svg" width="100%" alt="About" />
+I'm a beginner based in Bangkok, Thailand, with some foundational knowledge and a strong interest in **networking, cybersecurity and software development**. I learn by building tools, exploring lab environments and turning technical ideas into visual, interactive projects.
 
-I work at the intersection of networking and security. I build tools that make network traffic visible, detect suspicious behaviour as it happens and help analysts triage alerts, and I explain how attacks and defenses work through interactive learning platforms.
+I'm still developing my understanding and practical skills. These projects reflect my learning and experimentation; they are not a claim of professional expertise, certification or production engineering experience.
 
-My foundation is networking from the wire up: Ethernet and switching, IP addressing and subnetting, OSPF and BGP routing, NAT and ACLs, aligned with the CCNA 200-301 topics. On top of that I focus on security operations: packet capture and protocol decoding, rule-based detection mapped to MITRE ATT&CK, attack simulation and incident analysis.
+## What I'm learning
 
-I work comfortably in Kali Linux and Ubuntu, and I can build the full tool when one does not exist, from a Python capture engine to the web dashboard on top of it.
+| Area | Current interests |
+|---|---|
+| Networking | IP addressing, subnetting, switching, VLANs, routing and basic troubleshooting |
+| Cybersecurity | Network traffic, defensive security concepts, monitoring and safe lab practice |
+| Development | Web interfaces, scripting and connecting application behavior to underlying data |
+| Tools and systems | Linux, Windows, Git and local development environments |
 
-<br>
+I explore technologies such as **TypeScript, React, Python, Node.js and Docker** through projects. A technology appearing in a repository describes what that project uses, rather than my proficiency level.
 
-<img src="https://raw.githubusercontent.com/aum-akkarapong/aum-akkarapong/main/assets/h-focus.svg" width="100%" alt="Areas of Focus" />
+## Projects I learn through
 
-<table>
-<tr>
-<td width="33%" valign="top">
+These are personal projects and ongoing experiments. Some repositories are private, so their links may require access.
 
-<code>SECURITY OPERATIONS</code>
+### NEXUS Network Explorer
 
-Threat detection and alert triage mapped to MITRE ATT&CK. Attack simulation from the attacker, defender and SOC analyst perspectives. NIST CSF, CIS Controls and OWASP Top 10.
+A browser-based 3D simulation of a connected factory, combining network maps, equipment inspection, monitoring, production and electrical systems. It helps me explore how infrastructure components relate to each other and how to explain those relationships visually.
 
-</td>
-<td width="33%" valign="top">
+**Current scope:** four floors, 1,526 modeled devices, eight PCB lines, NEXUS Pulse, MES and a simulated desktop/terminal workspace. It does not connect to real SSH/RDP endpoints or certify a physical installation.
 
-<code>NETWORK ENGINEERING</code>
+[View repository](https://github.com/aum-akkarapong/nexus-network-explorer)
 
-Switching, VLANs and IP addressing. OSPF and BGP routing, NAT and ACLs. Layer 2 to 7 protocol analysis and enterprise network design.
+### Network Traffic Analyzer
 
-</td>
-<td width="33%" valign="top">
+A personal project for exploring network traffic capture, PCAP analysis and monitoring dashboards. My focus is on understanding traffic patterns and presenting analysis results clearly.
 
-<code>SECURITY TOOLING</code>
+[View repository](https://github.com/aum-akkarapong/Network-Traffic-Analyzer)
 
-Packet capture and decoding with Python and Scapy. Detection engines, SOC dashboards and endpoint monitoring with audit logging.
+### Interactive learning projects
 
-</td>
-</tr>
-</table>
+**Cyber Security Interactive Learning** and **Network Engineer Learning Hub** use interactive explanations and visualizations to explore security and networking concepts. The project names describe their subjects, not a professional title or qualification I hold.
 
-<br>
+[Cybersecurity project](https://github.com/aum-akkarapong/cyber-security-interactive-learning) · [Networking project](https://github.com/aum-akkarapong/network-engineer-learning-hub)
 
-<img src="https://raw.githubusercontent.com/aum-akkarapong/aum-akkarapong/main/assets/h-glance.svg" width="100%" alt="At a Glance" />
+### Other experiments
 
-<img src="https://raw.githubusercontent.com/aum-akkarapong/aum-akkarapong/main/assets/glance.svg" width="100%" alt="9 detection rules, 19 attack simulations, 378 lessons, 242 animated scenes, L2 to L7 decoding" />
+- **[Sentinel PC](https://github.com/aum-akkarapong/sentinel-pc):** a local Windows monitoring project for exploring system metrics and management interfaces.
+- **[Finora](https://github.com/aum-akkarapong/finora):** a local personal-finance web application for exploring web development, data storage and application structure.
 
-<br>
+## How I approach learning
 
-<img src="https://raw.githubusercontent.com/aum-akkarapong/aum-akkarapong/main/assets/h-projects.svg" width="100%" alt="Featured Projects" />
+- Start with the fundamentals, then test ideas in a controlled environment.
+- Ask questions, check results and improve when I find mistakes.
+- Clearly distinguish simulations and learning projects from real deployments.
+- Explore security tools only on systems I own or have permission to test.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Let's connect
 
-<sub><code>capture 01</code></sub>
-<h3><a href="https://github.com/aum-akkarapong/Network-Traffic-Analyzer">Network Traffic Analyzer</a></h3>
+I'm happy to exchange learning resources, receive constructive feedback and connect with others interested in networking, cybersecurity and building useful tools.
 
-Defensive network monitoring platform. Captures live traffic or reads PCAP files, decodes layers 2 to 7 (ARP, TCP/UDP, DNS, HTTP, TLS SNI) and runs 9 streaming detection rules for port scans, SYN floods, ARP spoofing and brute force, each mapped to MITRE ATT&CK, with a SOC dashboard for alert triage.
-
-<img src="https://img.shields.io/badge/Python-0b0f14?style=flat-square&labelColor=0b0f14&logo=python&logoColor=f5a524" alt="Python" />
-<img src="https://img.shields.io/badge/Scapy-0b0f14?style=flat-square&labelColor=0b0f14" alt="Scapy" />
-<img src="https://img.shields.io/badge/FastAPI-0b0f14?style=flat-square&labelColor=0b0f14&logo=fastapi&logoColor=f5a524" alt="FastAPI" />
-<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-0b0f14?style=flat-square&labelColor=0b0f14" alt="MITRE ATT&CK" />
-<img src="https://img.shields.io/badge/Docker-0b0f14?style=flat-square&labelColor=0b0f14&logo=docker&logoColor=f5a524" alt="Docker" />
-
-</td>
-<td width="50%" valign="top">
-
-<sub><code>capture 02</code></sub>
-<h3><a href="https://github.com/aum-akkarapong/cyber-security-interactive-learning">Cyber Security Interactive Learning</a></h3>
-
-Security curriculum taught through animation. 235 lessons in 19 modules covering networking, cryptography, AppSec, SOC, incident response, forensics and malware, with 19 attack simulations mapped to MITRE ATT&CK, 14 guided labs, a synthetic SOC dashboard and 25 tools such as a CVSS calculator and a firewall rule builder.
-
-<img src="https://img.shields.io/badge/TypeScript-0b0f14?style=flat-square&labelColor=0b0f14&logo=typescript&logoColor=f5a524" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-0b0f14?style=flat-square&labelColor=0b0f14&logo=react&logoColor=f5a524" alt="React" />
-<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-0b0f14?style=flat-square&labelColor=0b0f14" alt="MITRE ATT&CK" />
-<img src="https://img.shields.io/badge/OWASP-0b0f14?style=flat-square&labelColor=0b0f14&logo=owasp&logoColor=f5a524" alt="OWASP" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<sub><code>capture 03</code></sub>
-<h3><a href="https://github.com/aum-akkarapong/sentinel-pc">Sentinel PC</a></h3>
-
-Real-time endpoint monitor for Windows. Streams CPU, GPU, memory, disk and network metrics every 500 ms, with a process and service manager protected by deny lists, target re-verification against PID reuse and a full audit log. Runs on localhost only with zero telemetry.
-
-<img src="https://img.shields.io/badge/TypeScript-0b0f14?style=flat-square&labelColor=0b0f14&logo=typescript&logoColor=f5a524" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Node.js-0b0f14?style=flat-square&labelColor=0b0f14&logo=nodedotjs&logoColor=f5a524" alt="Node.js" />
-<img src="https://img.shields.io/badge/PowerShell-0b0f14?style=flat-square&labelColor=0b0f14&logo=powershell&logoColor=f5a524" alt="PowerShell" />
-<img src="https://img.shields.io/badge/SQLite-0b0f14?style=flat-square&labelColor=0b0f14&logo=sqlite&logoColor=f5a524" alt="SQLite" />
-
-</td>
-<td width="50%" valign="top">
-
-<sub><code>capture 04</code></sub>
-<h3><a href="https://github.com/aum-akkarapong/network-engineer-learning-hub">Network Engineer Learning Hub</a></h3>
-
-Interactive networking curriculum aligned with CCNA 200-301. 143 lessons across 18 tracks, including network security, monitoring and troubleshooting, with 70 step-through visualisations and tools for subnetting, VLSM, OSPF paths, ACLs and BGP best-path selection.
-
-<img src="https://img.shields.io/badge/CCNA%20200--301-0b0f14?style=flat-square&labelColor=0b0f14&logo=cisco&logoColor=f5a524" alt="CCNA 200-301" />
-<img src="https://img.shields.io/badge/TypeScript-0b0f14?style=flat-square&labelColor=0b0f14&logo=typescript&logoColor=f5a524" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Next.js-0b0f14?style=flat-square&labelColor=0b0f14&logo=nextdotjs&logoColor=f5a524" alt="Next.js" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-<sub><code>capture 05</code></sub>
-<h3><a href="https://github.com/aum-akkarapong/nexus-network-explorer">NEXUS Network Explorer</a></h3>
-
-3D digital twin of an enterprise network and smart factory. Models 1,602 devices across a warehouse, offices, a 64-cabinet data centre and eight PCB lines on a 192.168.0.0/16 plan, with 84 department and device-type VLANs, a routed core with VRRP and OSPF, default-deny inter-zone policy and structured cabling down to every wall outlet. Live packet simulation, link-failure rerouting and an N-1 sweep prove zero network single points of failure.
-
-<img src="https://img.shields.io/badge/TypeScript-0b0f14?style=flat-square&labelColor=0b0f14&logo=typescript&logoColor=f5a524" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-0b0f14?style=flat-square&labelColor=0b0f14&logo=react&logoColor=f5a524" alt="React" />
-<img src="https://img.shields.io/badge/Three.js-0b0f14?style=flat-square&labelColor=0b0f14&logo=threedotjs&logoColor=f5a524" alt="Three.js" />
-<img src="https://img.shields.io/badge/VLAN%20%26%20ACL-0b0f14?style=flat-square&labelColor=0b0f14" alt="VLAN & ACL" />
-<img src="https://img.shields.io/badge/OSPF-0b0f14?style=flat-square&labelColor=0b0f14&logo=cisco&logoColor=f5a524" alt="OSPF" />
-<img src="https://img.shields.io/badge/Network%20Design-0b0f14?style=flat-square&labelColor=0b0f14" alt="Network Design" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/aum-akkarapong/aum-akkarapong/main/assets/h-arsenal.svg" width="100%" alt="Arsenal" />
-
-<table>
-<tr>
-<td width="200"><code>Operating Systems</code></td>
-<td>
-<img src="https://img.shields.io/badge/Kali%20Linux-0b0f14?style=flat-square&labelColor=0b0f14&logo=kalilinux&logoColor=f5a524" alt="Kali Linux" />
-<img src="https://img.shields.io/badge/Ubuntu-0b0f14?style=flat-square&labelColor=0b0f14&logo=ubuntu&logoColor=f5a524" alt="Ubuntu" />
-<img src="https://img.shields.io/badge/Linux-0b0f14?style=flat-square&labelColor=0b0f14&logo=linux&logoColor=f5a524" alt="Linux" />
-<img src="https://img.shields.io/badge/Windows-0b0f14?style=flat-square&labelColor=0b0f14" alt="Windows" />
-</td>
-</tr>
-<tr>
-<td width="200"><code>Security</code></td>
-<td>
-<img src="https://img.shields.io/badge/Threat%20Detection-0b0f14?style=flat-square&labelColor=0b0f14" alt="Threat Detection" />
-<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-0b0f14?style=flat-square&labelColor=0b0f14" alt="MITRE ATT&CK" />
-<img src="https://img.shields.io/badge/SOC%20Operations-0b0f14?style=flat-square&labelColor=0b0f14" alt="SOC Operations" />
-<img src="https://img.shields.io/badge/Incident%20Response-0b0f14?style=flat-square&labelColor=0b0f14" alt="Incident Response" />
-<img src="https://img.shields.io/badge/NIST%20CSF-0b0f14?style=flat-square&labelColor=0b0f14" alt="NIST CSF" />
-<img src="https://img.shields.io/badge/CIS%20Controls-0b0f14?style=flat-square&labelColor=0b0f14" alt="CIS Controls" />
-<img src="https://img.shields.io/badge/OWASP%20Top%2010-0b0f14?style=flat-square&labelColor=0b0f14&logo=owasp&logoColor=f5a524" alt="OWASP Top 10" />
-</td>
-</tr>
-<tr>
-<td width="200"><code>Networking</code></td>
-<td>
-<img src="https://img.shields.io/badge/TCP%2FIP-0b0f14?style=flat-square&labelColor=0b0f14" alt="TCP/IP" />
-<img src="https://img.shields.io/badge/Routing%20%26%20Switching-0b0f14?style=flat-square&labelColor=0b0f14&logo=cisco&logoColor=f5a524" alt="Routing & Switching" />
-<img src="https://img.shields.io/badge/OSPF-0b0f14?style=flat-square&labelColor=0b0f14" alt="OSPF" />
-<img src="https://img.shields.io/badge/BGP-0b0f14?style=flat-square&labelColor=0b0f14" alt="BGP" />
-<img src="https://img.shields.io/badge/VLAN%20%26%20ACL-0b0f14?style=flat-square&labelColor=0b0f14" alt="VLAN & ACL" />
-<img src="https://img.shields.io/badge/Cisco%20IOS-0b0f14?style=flat-square&labelColor=0b0f14&logo=cisco&logoColor=f5a524" alt="Cisco IOS" />
-</td>
-</tr>
-<tr>
-<td width="200"><code>Traffic Analysis</code></td>
-<td>
-<img src="https://img.shields.io/badge/PCAP%20Analysis-0b0f14?style=flat-square&labelColor=0b0f14&logo=wireshark&logoColor=f5a524" alt="PCAP Analysis" />
-<img src="https://img.shields.io/badge/Scapy-0b0f14?style=flat-square&labelColor=0b0f14" alt="Scapy" />
-<img src="https://img.shields.io/badge/BPF%20Filters-0b0f14?style=flat-square&labelColor=0b0f14" alt="BPF Filters" />
-<img src="https://img.shields.io/badge/DNS%20%2F%20HTTP%20%2F%20TLS-0b0f14?style=flat-square&labelColor=0b0f14" alt="DNS / HTTP / TLS" />
-</td>
-</tr>
-<tr>
-<td width="200"><code>Scripting & Languages</code></td>
-<td>
-<img src="https://img.shields.io/badge/Python-0b0f14?style=flat-square&labelColor=0b0f14&logo=python&logoColor=f5a524" alt="Python" />
-<img src="https://img.shields.io/badge/Bash-0b0f14?style=flat-square&labelColor=0b0f14&logo=gnubash&logoColor=f5a524" alt="Bash" />
-<img src="https://img.shields.io/badge/PowerShell-0b0f14?style=flat-square&labelColor=0b0f14&logo=powershell&logoColor=f5a524" alt="PowerShell" />
-<img src="https://img.shields.io/badge/TypeScript-0b0f14?style=flat-square&labelColor=0b0f14&logo=typescript&logoColor=f5a524" alt="TypeScript" />
-<img src="https://img.shields.io/badge/SQL-0b0f14?style=flat-square&labelColor=0b0f14&logo=postgresql&logoColor=f5a524" alt="SQL" />
-</td>
-</tr>
-<tr>
-<td width="200"><code>Tooling & DevOps</code></td>
-<td>
-<img src="https://img.shields.io/badge/Docker-0b0f14?style=flat-square&labelColor=0b0f14&logo=docker&logoColor=f5a524" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-0b0f14?style=flat-square&labelColor=0b0f14&logo=git&logoColor=f5a524" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-0b0f14?style=flat-square&labelColor=0b0f14&logo=githubactions&logoColor=f5a524" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/FastAPI-0b0f14?style=flat-square&labelColor=0b0f14&logo=fastapi&logoColor=f5a524" alt="FastAPI" />
-<img src="https://img.shields.io/badge/React-0b0f14?style=flat-square&labelColor=0b0f14&logo=react&logoColor=f5a524" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-0b0f14?style=flat-square&labelColor=0b0f14&logo=nodedotjs&logoColor=f5a524" alt="Node.js" />
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/aum-akkarapong/aum-akkarapong/main/assets/h-principles.svg" width="100%" alt="Security Principles" />
-
-<table>
-<tr>
-<td width="50%" valign="top"><code>rule 01</code> <b>Defensive by design.</b> My monitoring tools are passive by default, with no injection or decryption, and safety policies run before any destructive action.</td>
-<td width="50%" valign="top"><code>rule 02</code> <b>Know the attack, build the defense.</b> Every simulation is studied from the attacker, defender and SOC analyst perspectives, then mapped to MITRE ATT&CK.</td>
-</tr>
-<tr>
-<td width="50%" valign="top"><code>rule 03</code> <b>Evidence over assumptions.</b> Every alert carries its evidence and thresholds, and every action is recorded in an audit log.</td>
-<td width="50%" valign="top"><code>rule 04</code> <b>Authorised testing only.</b> All capture and testing is done on networks and systems I own or am explicitly permitted to assess.</td>
-</tr>
-</table>
-
-<br>
-
-<details>
-<summary><code>Client work: full-stack web systems</code></summary>
-<br>
-
-| Project | Description | Stack |
-|:--|:--|:--|
-| STOCK-PRO-MAX | Inventory and stock management with admin and staff roles | React, Node.js, SQL |
-| UniStay | Dormitory rental platform with admin and landlord dashboards and live chat | React, TypeScript, Supabase |
-| AI Chatbot | Business chatbot on LINE with automated workflows | n8n, OpenAI, Gemini, LINE API |
-| Market Analytics Dashboard | Financial market data dashboard with charts and indicators | React, TypeScript |
-
-</details>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/aum-akkarapong/aum-akkarapong/main/assets/h-contact.svg" width="100%" alt="Handshake" />
-
-<img src="https://raw.githubusercontent.com/aum-akkarapong/aum-akkarapong/main/assets/handshake.svg" width="100%" alt="Open to opportunities in cyber security, SOC and network engineering" />
-
-<div align="center">
-<sub>Open to opportunities in cyber security, SOC and network engineering. Contact: <a href="mailto:aumakkara@gmail.com">aumakkara@gmail.com</a></sub>
-</div>
+**Contact:** [aumakkara@gmail.com](mailto:aumakkara@gmail.com)
