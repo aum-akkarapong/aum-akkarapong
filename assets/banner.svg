@@ -1,12 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
 <title id="title">Akkarapong — networking, security and development learner</title>
 <desc id="desc">A yellow and charcoal terminal-style profile. A simple client, switch, router and server diagram introduces the network concepts I am learning.</desc>
+<style>
+.status{animation:status 4s ease-in-out infinite}
+.cursor{animation:cursor 1.6s steps(1,end) infinite}
+.packet{animation:packet 6s linear infinite;opacity:0}
+.hop2{animation-delay:2s}.hop3{animation-delay:4s}
+@keyframes status{0%,100%{opacity:1}50%{opacity:.4}}
+@keyframes cursor{0%,55%{opacity:1}56%,100%{opacity:0}}
+@keyframes packet{0%{transform:translateX(0);opacity:0}5%{opacity:1}29%{transform:translateX(19px);opacity:1}34%,100%{transform:translateX(19px);opacity:0}}
+@media(prefers-reduced-motion:reduce){.status,.cursor,.packet{animation:none}.status,.cursor{opacity:1}.packet{display:none}}
+</style>
 <defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#20231c" stroke-width=".6"/></pattern></defs>
 <rect x="1" y="1" width="1198" height="358" rx="16" fill="#0b0f14" stroke="#34372b"/>
 <rect x="2" y="46" width="1196" height="266" fill="url(#grid)"/>
 <path d="M1 45H1199M1 313H1199" stroke="#34372b"/>
 <g font-family="Consolas,Menlo,monospace">
-<circle cx="27" cy="24" r="5" fill="#f5c842"/>
+<circle class="status" cx="27" cy="24" r="5" fill="#f5c842"/>
 <text x="44" y="29" font-size="13" fill="#c4c6b7">aum@learning-lab <tspan fill="#777f87">: ~/profile</tspan></text>
 <text x="1172" y="29" font-size="12" fill="#f5c842" text-anchor="end">PERSONAL PROJECTS / 0x01</text>
 <text x="44" y="118" font-size="51" font-weight="700" letter-spacing="3" fill="#f5c842">AKKARAPONG</text>
@@ -14,10 +24,12 @@
 <text x="46" y="201" font-size="16" fill="#aab1b8">A foundation in the basics.</text>
 <text x="46" y="226" font-size="16" fill="#aab1b8">A curiosity for what comes next.</text>
 <text x="46" y="278" font-size="15" fill="#e4e6db"><tspan fill="#f5c842">&gt; </tspan>learn. build. understand. repeat.</text>
+<rect class="cursor" x="374" y="266" width="8" height="15" fill="#f5c842"/>
 <text x="679" y="85" font-size="12" fill="#f5c842" letter-spacing="2">FOLLOW THE CONNECTION</text>
 <text x="679" y="111" font-size="13" fill="#aab1b8">A simple topology. Plenty to explore.</text>
 <g fill="#12181d" stroke="#6c6032"><rect x="678" y="147" width="100" height="63" rx="7"/><rect x="803" y="147" width="100" height="63" rx="7"/><rect x="928" y="147" width="100" height="63" rx="7"/><rect x="1053" y="147" width="100" height="63" rx="7"/></g>
 <path d="M778 179H803M903 179H928M1028 179H1053" stroke="#f5c842" stroke-width="2"/>
+<g fill="#fff2b3"><rect class="packet" x="778" y="175" width="6" height="8" rx="1"/><rect class="packet hop2" x="903" y="175" width="6" height="8" rx="1"/><rect class="packet hop3" x="1028" y="175" width="6" height="8" rx="1"/></g>
 <g font-size="13" fill="#e9e8d9" text-anchor="middle"><text x="728" y="175">CLIENT</text><text x="853" y="175">SWITCH</text><text x="978" y="175">ROUTER</text><text x="1103" y="175">SERVER</text></g>
 <g font-size="11" fill="#f5c842" text-anchor="middle"><text x="728" y="195">request</text><text x="853" y="195">forward</text><text x="978" y="195">route</text><text x="1103" y="195">respond</text></g>
 <text x="679" y="249" font-size="13" fill="#aab1b8">IP addressing · VLANs · traffic analysis</text>

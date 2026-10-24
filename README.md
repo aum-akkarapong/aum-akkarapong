@@ -4,7 +4,7 @@
 
 **Learning the fundamentals. Following the packets. Building along the way.**
 
-[About](#01--about) · [Learning focus](#02--connect-observe-build) · [Projects](#03--the-project-lab) · [Contact](#04--keep-learning-together)
+[About](#01--about) · [Learning focus](#02--connect-observe-build) · [Projects](#03--the-project-lab) · [Skills](#04--skills-in-progress) · [Contact](#05--keep-learning-together)
 
 </div>
 
@@ -25,8 +25,6 @@ Three questions guide my learning: **How does data reach its destination? What c
 | **Networking fundamentals** | IP addressing, subnetting, switching, VLANs, routing and basic troubleshooting |
 | **Defensive security** | Packet capture, traffic patterns, monitoring and investigating results in a controlled lab |
 | **Building tools** | Web interfaces, scripts and visual explanations that make technical concepts easier to understand |
-
-**Tools in my projects:** TypeScript, React, Python, Node.js, Linux, Git and Docker. I'm still developing my understanding of these tools; this is a learning toolkit, rather than a list of expert-level skills.
 
 ## `03` / The project lab
 
@@ -68,7 +66,23 @@ Cyber Security Interactive Learning and Network Engineer Learning Hub use visual
 
 *These are personal learning projects. Some repositories are private and require access.*
 
-## `04` / Keep learning together
+## `04` / Skills in progress
+
+![Learning toolkit — fundamentals, hands-on practice and steady improvement](assets/h-arsenal.svg)
+
+I have a foundation to build on, and I'm developing these skills through personal projects and lab practice. Tools listed here are part of that learning process.
+
+| Area | Concepts and tools | What I'm practicing |
+|:---|:---|:---|
+| **Networking** | IP addressing, subnetting, VLANs, routing and switching | Following connections and working through basic connectivity problems |
+| **Security & traffic analysis** | Packet capture, PCAP files and defensive monitoring concepts | Reading traffic patterns, reviewing results and understanding alert context |
+| **Web development** | HTML, CSS, TypeScript, React and Node.js | Building interfaces, working with application data and understanding how the pieces connect |
+| **Scripting & systems** | Python, Linux and Windows | Reading and adapting scripts, using the command line and exploring system information |
+| **Project workflow** | Git, GitHub and Docker | Tracking changes, maintaining documentation and running local development environments |
+
+**My next focus:** strengthen troubleshooting habits, understand more of the code behind my projects and explain what I learn with clear examples.
+
+## `05` / Keep learning together
 
 I value clear explanations, constructive feedback and the habit of checking results. I practice in my own systems and authorized labs, document what I learn and revisit mistakes as my understanding improves.
 
