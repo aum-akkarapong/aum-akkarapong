@@ -1,95 +1,66 @@
 <div align="center">
 
-![Akkarapong — learning networking, cybersecurity and development through personal projects](assets/banner.svg)
+<img src="assets/banner.svg" width="100%" alt="AKKARAPONG — network engineering, defensive security, packet analysis and full-stack tooling. Bangkok, TH.">
 
-**Learning the fundamentals. Following the packets. Building along the way.**
-
-[About](#01--about) · [Learning focus](#02--connect-observe-build) · [Projects](#03--the-project-lab) · [Skills](#04--skills-in-progress) · [Contact](#05--keep-learning-together)
+<p>
+<a href="#whoami"><code>whoami</code></a> ·
+<a href="#domains"><code>domains</code></a> ·
+<a href="#stack"><code>stack</code></a> ·
+<a href="#lab"><code>lab</code></a> ·
+<a href="#projects"><code>projects</code></a> ·
+<a href="#connect"><code>connect</code></a>
+</p>
 
 </div>
 
-## `01` / About
+<a id="whoami"></a>
+<img src="assets/h-whoami.svg" width="100%" alt="0x01 // WHOAMI">
 
-I'm **Akkarapong**, a beginner from Bangkok with some foundational knowledge and a growing interest in **networking, cybersecurity and development**. I learn by tracing how systems connect, testing ideas in labs and turning those ideas into visual projects.
+<img src="assets/whoami.svg" width="100%" alt="whoami: Akkarapong, Bangkok. Focus: network engineering, defensive security and tooling. Stack: TypeScript, Python, React, FastAPI, Docker. OS: Windows, Kali Linux, Ubuntu.">
 
-This profile is a record of that progress: questions I'm exploring, tools I'm experimenting with and projects I'm improving step by step.
+<a id="domains"></a>
+<img src="assets/h-domains.svg" width="100%" alt="0x02 // CORE_DOMAINS">
 
-## `02` / Connect. Observe. Build.
+<img src="assets/domains.svg" width="100%" alt="Network engineering: addressing, subnetting, VLANs, routing, topology design, troubleshooting. Defensive security: packet capture, PCAP analysis, detections, monitoring. Software engineering: TypeScript/React apps, Python APIs, 3D and data visualisation, Docker and CI.">
 
-![Connect: follow the path of data. Observe: understand traffic. Build: turn ideas into useful tools.](assets/glance.svg)
+<a id="stack"></a>
+<img src="assets/h-stack.svg" width="100%" alt="0x03 // TECH_STACK">
 
-Three questions guide my learning: **How does data reach its destination? What can traffic tell us? How can I turn an idea into a useful tool?**
+<img src="assets/stack.svg" width="100%" alt="Languages: TypeScript, JavaScript, Python, HTML5, CSS3, Bash, PowerShell. Frontend: React, Next.js, Vite, Tailwind CSS, Three.js, React Router, MDX. Backend and data: Node.js, FastAPI, Pydantic, SQLAlchemy, PostgreSQL, SQLite, Zod. DevOps and QA: Docker, Git, GitHub, GitHub Actions, Playwright, Vitest, ESLint.">
 
-| Learning focus | What I'm exploring |
-|:---|:---|
-| **Networking fundamentals** | IP addressing, subnetting, switching, VLANs, routing and basic troubleshooting |
-| **Defensive security** | Packet capture, traffic patterns, monitoring and investigating results in a controlled lab |
-| **Building tools** | Web interfaces, scripts and visual explanations that make technical concepts easier to understand |
+<a id="lab"></a>
+<img src="assets/h-lab.svg" width="100%" alt="0x04 // LAB_ENV">
 
-## `03` / The project lab
+<img src="assets/lab.svg" width="100%" alt="Operating systems: Windows, Kali Linux, Ubuntu. Network and security tooling: Wireshark, Scapy, Cisco Packet Tracer, VirtualBox.">
 
-### NEXUS Network Explorer
+<a id="projects"></a>
+<img src="assets/h-projects.svg" width="100%" alt="0x05 // PROJECTS">
 
-**Explore a connected factory, from the floor plan to the switch port.**
+<p align="center">
+<a href="https://github.com/aum-akkarapong/nexus-network-explorer"><img src="assets/proj-nexus.svg" width="49%" alt="NEXUS Network Explorer"></a>
+<a href="https://github.com/aum-akkarapong/Network-Traffic-Analyzer"><img src="assets/proj-nta.svg" width="49%" alt="Network Traffic Analyzer"></a>
+</p>
+<p align="center">
+<a href="https://github.com/aum-akkarapong/sentinel-pc"><img src="assets/proj-sentinel.svg" width="49%" alt="Sentinel PC"></a>
+<a href="https://github.com/aum-akkarapong/cyber-security-interactive-learning"><img src="assets/proj-cyber.svg" width="49%" alt="Cyber Security Interactive Learning"></a>
+</p>
+<p align="center">
+<a href="https://github.com/aum-akkarapong/network-engineer-learning-hub"><img src="assets/proj-nethub.svg" width="49%" alt="Network Engineer Learning Hub"></a>
+<a href="https://github.com/aum-akkarapong/finora"><img src="assets/proj-finora.svg" width="49%" alt="Finora"></a>
+</p>
 
-A browser-based 3D simulation brings together four floors, 1,526 modeled devices and eight PCB production lines. NEXUS Pulse provides monitoring views; MES connects production to its supporting systems; the desktop and terminal let you explore modeled device behavior.
+<p align="center"><sub><code>repositories are private · access on request</code></sub></p>
 
-**What I'm learning:** how addressing, cabling, power and services depend on one another, and how to make those relationships visible. Device sessions and infrastructure behavior are simulated.
+<a id="connect"></a>
+<img src="assets/h-contact.svg" width="100%" alt="0x06 // CONNECT">
 
-[Explore NEXUS →](https://github.com/aum-akkarapong/nexus-network-explorer)
+<img src="assets/contact.svg" width="100%" alt="Contact: aumakkara@gmail.com · github.com/aum-akkarapong · Bangkok, Thailand">
 
----
+<div align="center">
 
-### Network Traffic Analyzer
+<a href="mailto:aumakkara@gmail.com"><img src="https://img.shields.io/badge/MAIL-aumakkara%40gmail.com-f5c842?style=for-the-badge&logo=gmail&logoColor=f5c842&labelColor=0b0f14" alt="Email"></a>
+<a href="https://github.com/aum-akkarapong"><img src="https://img.shields.io/badge/GITHUB-aum--akkarapong-f5c842?style=for-the-badge&logo=github&logoColor=f5c842&labelColor=0b0f14" alt="GitHub"></a>
 
-**Look at the traffic behind a connection.**
+<sub><code>// session closed · thanks for scanning</code></sub>
 
-A personal project exploring packet capture, PCAP analysis and monitoring dashboards. It gives me a place to investigate traffic patterns and practice explaining what the results mean.
-
-**What I'm learning:** how network observations become useful information, and why an alert needs context before drawing conclusions.
-
-[Explore the analyzer →](https://github.com/aum-akkarapong/Network-Traffic-Analyzer)
-
----
-
-### Interactive learning projects
-
-**Make a technical concept easier to follow.**
-
-Cyber Security Interactive Learning and Network Engineer Learning Hub use visual explanations and interactive tools to explore networking and security topics.
-
-**What I'm learning:** how to break a complicated process into smaller steps, test my understanding and explain it more clearly.
-
-[Cybersecurity learning →](https://github.com/aum-akkarapong/cyber-security-interactive-learning) · [Networking learning →](https://github.com/aum-akkarapong/network-engineer-learning-hub)
-
-**Also in the lab:** [Sentinel PC](https://github.com/aum-akkarapong/sentinel-pc), a local Windows monitoring project, and [Finora](https://github.com/aum-akkarapong/finora), a personal-finance web app for exploring interfaces and data storage.
-
-*These are personal learning projects. Some repositories are private and require access.*
-
-## `04` / Skills in progress
-
-![Learning toolkit — fundamentals, hands-on practice and steady improvement](assets/h-arsenal.svg)
-
-I have a foundation to build on, and I'm developing these skills through personal projects and lab practice. Tools listed here are part of that learning process.
-
-| Area | Concepts and tools | What I'm practicing |
-|:---|:---|:---|
-| **Networking** | IP addressing, subnetting, VLANs, routing and switching | Following connections and working through basic connectivity problems |
-| **Security & traffic analysis** | Packet capture, PCAP files and defensive monitoring concepts | Reading traffic patterns, reviewing results and understanding alert context |
-| **Web development** | HTML, CSS, TypeScript, React and Node.js | Building interfaces, working with application data and understanding how the pieces connect |
-| **Scripting & systems** | Python, Linux and Windows | Reading and adapting scripts, using the command line and exploring system information |
-| **Project workflow** | Git, GitHub and Docker | Tracking changes, maintaining documentation and running local development environments |
-
-**My next focus:** strengthen troubleshooting habits, understand more of the code behind my projects and explain what I learn with clear examples.
-
-## `05` / Keep learning together
-
-I value clear explanations, constructive feedback and the habit of checking results. I practice in my own systems and authorized labs, document what I learn and revisit mistakes as my understanding improves.
-
-Happy to exchange resources or talk about networking, security and building useful tools.
-
-**[aumakkara@gmail.com](mailto:aumakkara@gmail.com)** · Bangkok, Thailand
-
----
-
-`learn → experiment → understand → improve`
+</div>
