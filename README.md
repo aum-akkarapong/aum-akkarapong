@@ -1,68 +1,81 @@
 <div align="center">
 
-![Akkarapong — learning through projects](assets/banner.svg)
+![Akkarapong — learning networking, cybersecurity and development through personal projects](assets/banner.svg)
 
-**Learning the fundamentals. Building projects. Improving step by step.**
+**Learning the fundamentals. Following the packets. Building along the way.**
 
-[GitHub](https://github.com/aum-akkarapong) · [Email](mailto:aumakkara@gmail.com)
+[About](#01--about) · [Learning focus](#02--connect-observe-build) · [Projects](#03--the-project-lab) · [Contact](#04--keep-learning-together)
 
 </div>
 
-## Hi, I'm Akkarapong
+## `01` / About
 
-I'm a beginner based in Bangkok, Thailand, with some foundational knowledge and a strong interest in **networking, cybersecurity and software development**. I learn by building tools, exploring lab environments and turning technical ideas into visual, interactive projects.
+I'm **Akkarapong**, a beginner from Bangkok with some foundational knowledge and a growing interest in **networking, cybersecurity and development**. I learn by tracing how systems connect, testing ideas in labs and turning those ideas into visual projects.
 
-I'm still developing my understanding and practical skills. These projects reflect my learning and experimentation; they are not a claim of professional expertise, certification or production engineering experience.
+This profile is a record of that progress: questions I'm exploring, tools I'm experimenting with and projects I'm improving step by step.
 
-## What I'm learning
+## `02` / Connect. Observe. Build.
 
-| Area | Current interests |
-|---|---|
-| Networking | IP addressing, subnetting, switching, VLANs, routing and basic troubleshooting |
-| Cybersecurity | Network traffic, defensive security concepts, monitoring and safe lab practice |
-| Development | Web interfaces, scripting and connecting application behavior to underlying data |
-| Tools and systems | Linux, Windows, Git and local development environments |
+![Connect: follow the path of data. Observe: understand traffic. Build: turn ideas into useful tools.](assets/glance.svg)
 
-I explore technologies such as **TypeScript, React, Python, Node.js and Docker** through projects. A technology appearing in a repository describes what that project uses, rather than my proficiency level.
+Three questions guide my learning: **How does data reach its destination? What can traffic tell us? How can I turn an idea into a useful tool?**
 
-## Projects I learn through
+| Learning focus | What I'm exploring |
+|:---|:---|
+| **Networking fundamentals** | IP addressing, subnetting, switching, VLANs, routing and basic troubleshooting |
+| **Defensive security** | Packet capture, traffic patterns, monitoring and investigating results in a controlled lab |
+| **Building tools** | Web interfaces, scripts and visual explanations that make technical concepts easier to understand |
 
-These are personal projects and ongoing experiments. Some repositories are private, so their links may require access.
+**Tools in my projects:** TypeScript, React, Python, Node.js, Linux, Git and Docker. I'm still developing my understanding of these tools; this is a learning toolkit, rather than a list of expert-level skills.
+
+## `03` / The project lab
 
 ### NEXUS Network Explorer
 
-A browser-based 3D simulation of a connected factory, combining network maps, equipment inspection, monitoring, production and electrical systems. It helps me explore how infrastructure components relate to each other and how to explain those relationships visually.
+**Explore a connected factory, from the floor plan to the switch port.**
 
-**Current scope:** four floors, 1,526 modeled devices, eight PCB lines, NEXUS Pulse, MES and a simulated desktop/terminal workspace. It does not connect to real SSH/RDP endpoints or certify a physical installation.
+A browser-based 3D simulation brings together four floors, 1,526 modeled devices and eight PCB production lines. NEXUS Pulse provides monitoring views; MES connects production to its supporting systems; the desktop and terminal let you explore modeled device behavior.
 
-[View repository](https://github.com/aum-akkarapong/nexus-network-explorer)
+**What I'm learning:** how addressing, cabling, power and services depend on one another, and how to make those relationships visible. Device sessions and infrastructure behavior are simulated.
+
+[Explore NEXUS →](https://github.com/aum-akkarapong/nexus-network-explorer)
+
+---
 
 ### Network Traffic Analyzer
 
-A personal project for exploring network traffic capture, PCAP analysis and monitoring dashboards. My focus is on understanding traffic patterns and presenting analysis results clearly.
+**Look at the traffic behind a connection.**
 
-[View repository](https://github.com/aum-akkarapong/Network-Traffic-Analyzer)
+A personal project exploring packet capture, PCAP analysis and monitoring dashboards. It gives me a place to investigate traffic patterns and practice explaining what the results mean.
+
+**What I'm learning:** how network observations become useful information, and why an alert needs context before drawing conclusions.
+
+[Explore the analyzer →](https://github.com/aum-akkarapong/Network-Traffic-Analyzer)
+
+---
 
 ### Interactive learning projects
 
-**Cyber Security Interactive Learning** and **Network Engineer Learning Hub** use interactive explanations and visualizations to explore security and networking concepts. The project names describe their subjects, not a professional title or qualification I hold.
+**Make a technical concept easier to follow.**
 
-[Cybersecurity project](https://github.com/aum-akkarapong/cyber-security-interactive-learning) · [Networking project](https://github.com/aum-akkarapong/network-engineer-learning-hub)
+Cyber Security Interactive Learning and Network Engineer Learning Hub use visual explanations and interactive tools to explore networking and security topics.
 
-### Other experiments
+**What I'm learning:** how to break a complicated process into smaller steps, test my understanding and explain it more clearly.
 
-- **[Sentinel PC](https://github.com/aum-akkarapong/sentinel-pc):** a local Windows monitoring project for exploring system metrics and management interfaces.
-- **[Finora](https://github.com/aum-akkarapong/finora):** a local personal-finance web application for exploring web development, data storage and application structure.
+[Cybersecurity learning →](https://github.com/aum-akkarapong/cyber-security-interactive-learning) · [Networking learning →](https://github.com/aum-akkarapong/network-engineer-learning-hub)
 
-## How I approach learning
+**Also in the lab:** [Sentinel PC](https://github.com/aum-akkarapong/sentinel-pc), a local Windows monitoring project, and [Finora](https://github.com/aum-akkarapong/finora), a personal-finance web app for exploring interfaces and data storage.
 
-- Start with the fundamentals, then test ideas in a controlled environment.
-- Ask questions, check results and improve when I find mistakes.
-- Clearly distinguish simulations and learning projects from real deployments.
-- Explore security tools only on systems I own or have permission to test.
+*These are personal learning projects. Some repositories are private and require access.*
 
-## Let's connect
+## `04` / Keep learning together
 
-I'm happy to exchange learning resources, receive constructive feedback and connect with others interested in networking, cybersecurity and building useful tools.
+I value clear explanations, constructive feedback and the habit of checking results. I practice in my own systems and authorized labs, document what I learn and revisit mistakes as my understanding improves.
 
-**Contact:** [aumakkara@gmail.com](mailto:aumakkara@gmail.com)
+Happy to exchange resources or talk about networking, security and building useful tools.
+
+**[aumakkara@gmail.com](mailto:aumakkara@gmail.com)** · Bangkok, Thailand
+
+---
+
+`learn → experiment → understand → improve`
