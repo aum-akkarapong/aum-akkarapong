@@ -47,6 +47,9 @@
 <a href="https://github.com/aum-akkarapong/cyber-security-interactive-learning"><img src="assets/proj-cyber.svg" width="49%" alt="Cyber Security Interactive Learning"></a>
 <a href="https://github.com/aum-akkarapong/network-engineer-learning-hub"><img src="assets/proj-nethub.svg" width="49%" alt="Network Engineer Learning Hub"></a>
 </p>
+<p align="center">
+<a href="https://github.com/aum-akkarapong/sentinel-soc"><img src="assets/proj-soc.svg" width="100%" alt="Sentinel SOC"></a>
+</p>
 
 <p align="center"><sub><code>repositories are private · access on request</code></sub></p>
 
