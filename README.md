@@ -37,16 +37,15 @@
 <img src="assets/h-projects.svg" width="100%" alt="0x05 // PROJECTS">
 
 <p align="center">
-<a href="https://github.com/aum-akkarapong/nexus-network-explorer"><img src="assets/proj-nexus.svg" width="49%" alt="NEXUS Network Explorer"></a>
+<a href="https://github.com/aum-akkarapong/nexus-network-explorer"><img src="assets/proj-nexus.svg" width="100%" alt="NEXUS Network Explorer"></a>
+</p>
+<p align="center">
 <a href="https://github.com/aum-akkarapong/Network-Traffic-Analyzer"><img src="assets/proj-nta.svg" width="49%" alt="Network Traffic Analyzer"></a>
-</p>
-<p align="center">
 <a href="https://github.com/aum-akkarapong/sentinel-pc"><img src="assets/proj-sentinel.svg" width="49%" alt="Sentinel PC"></a>
-<a href="https://github.com/aum-akkarapong/cyber-security-interactive-learning"><img src="assets/proj-cyber.svg" width="49%" alt="Cyber Security Interactive Learning"></a>
 </p>
 <p align="center">
+<a href="https://github.com/aum-akkarapong/cyber-security-interactive-learning"><img src="assets/proj-cyber.svg" width="49%" alt="Cyber Security Interactive Learning"></a>
 <a href="https://github.com/aum-akkarapong/network-engineer-learning-hub"><img src="assets/proj-nethub.svg" width="49%" alt="Network Engineer Learning Hub"></a>
-<a href="https://github.com/aum-akkarapong/finora"><img src="assets/proj-finora.svg" width="49%" alt="Finora"></a>
 </p>
 
 <p align="center"><sub><code>repositories are private · access on request</code></sub></p>
