@@ -1,68 +1,96 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="AKKARAPONG — network engineering, defensive security, packet analysis and full-stack tooling. Bangkok, TH.">
+# Akkarapong
 
-<p>
-<a href="#whoami"><code>whoami</code></a> ·
-<a href="#domains"><code>domains</code></a> ·
-<a href="#stack"><code>stack</code></a> ·
-<a href="#lab"><code>lab</code></a> ·
-<a href="#projects"><code>projects</code></a> ·
-<a href="#connect"><code>connect</code></a>
-</p>
+**Network Engineering · Defensive Security · Packet Analysis · Full-Stack Tooling**
 
-</div>
+Bangkok, Thailand · UTC+7
 
-<a id="whoami"></a>
-<img src="assets/h-whoami.svg" width="100%" alt="0x01 // WHOAMI">
+<a href="mailto:aumakkara@gmail.com"><img src="https://img.shields.io/badge/Email-aumakkara%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/aum-akkarapong"><img src="https://img.shields.io/badge/GitHub-aum--akkarapong-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 
-<img src="assets/whoami.svg" width="100%" alt="whoami: Akkarapong, Bangkok. Focus: network engineering, defensive security and tooling. Stack: TypeScript, Python, React, FastAPI, Docker. OS: Windows, Kali Linux, Ubuntu.">
-
-<a id="domains"></a>
-<img src="assets/h-domains.svg" width="100%" alt="0x02 // CORE_DOMAINS">
-
-<img src="assets/domains.svg" width="100%" alt="Network engineering: addressing, subnetting, VLANs, routing, topology design, troubleshooting. Defensive security: packet capture, PCAP analysis, detections, monitoring. Software engineering: TypeScript/React apps, Python APIs, 3D and data visualisation, Docker and CI.">
-
-<a id="stack"></a>
-<img src="assets/h-stack.svg" width="100%" alt="0x03 // TECH_STACK">
-
-<img src="assets/stack.svg" width="100%" alt="Languages: TypeScript, JavaScript, Python, HTML5, CSS3, Bash, PowerShell. Frontend: React, Next.js, Vite, Tailwind CSS, Three.js, React Router, MDX. Backend and data: Node.js, FastAPI, Pydantic, SQLAlchemy, PostgreSQL, SQLite, Zod. DevOps and QA: Docker, Git, GitHub, GitHub Actions, Playwright, Vitest, ESLint.">
-
-<a id="lab"></a>
-<img src="assets/h-lab.svg" width="100%" alt="0x04 // LAB_ENV">
-
-<img src="assets/lab.svg" width="100%" alt="Operating systems: Windows, Kali Linux, Ubuntu. Network and security tooling: Wireshark, Scapy, Cisco Packet Tracer, VirtualBox.">
-
-<a id="projects"></a>
-<img src="assets/h-projects.svg" width="100%" alt="0x05 // PROJECTS">
-
-<p align="center">
-<a href="https://github.com/aum-akkarapong/nexus-network-explorer"><img src="assets/proj-nexus.svg" width="100%" alt="NEXUS Network Explorer"></a>
-</p>
-<p align="center">
-<a href="https://github.com/aum-akkarapong/Network-Traffic-Analyzer"><img src="assets/proj-nta.svg" width="49%" alt="Network Traffic Analyzer"></a>
-<a href="https://github.com/aum-akkarapong/sentinel-pc"><img src="assets/proj-sentinel.svg" width="49%" alt="Sentinel PC"></a>
-</p>
-<p align="center">
-<a href="https://github.com/aum-akkarapong/cyber-security-interactive-learning"><img src="assets/proj-cyber.svg" width="49%" alt="Cyber Security Interactive Learning"></a>
-<a href="https://github.com/aum-akkarapong/network-engineer-learning-hub"><img src="assets/proj-nethub.svg" width="49%" alt="Network Engineer Learning Hub"></a>
-</p>
-<p align="center">
-<a href="https://github.com/aum-akkarapong/sentinel-soc"><img src="assets/proj-soc.svg" width="100%" alt="Sentinel SOC"></a>
-</p>
-
-<p align="center"><sub><code>repositories are private · access on request</code></sub></p>
-
-<a id="connect"></a>
-<img src="assets/h-contact.svg" width="100%" alt="0x06 // CONNECT">
-
-<img src="assets/contact.svg" width="100%" alt="Contact: aumakkara@gmail.com · github.com/aum-akkarapong · Bangkok, Thailand">
-
-<div align="center">
-
-<a href="mailto:aumakkara@gmail.com"><img src="https://img.shields.io/badge/MAIL-aumakkara%40gmail.com-f5c842?style=for-the-badge&logo=gmail&logoColor=f5c842&labelColor=0b0f14" alt="Email"></a>
-<a href="https://github.com/aum-akkarapong"><img src="https://img.shields.io/badge/GITHUB-aum--akkarapong-f5c842?style=for-the-badge&logo=github&logoColor=f5c842&labelColor=0b0f14" alt="GitHub"></a>
-
-<sub><code>// session closed · thanks for scanning</code></sub>
+<sub><i>Map the network. Read the packets. Ship the tools.</i></sub>
 
 </div>
+
+---
+
+## About
+
+I build and secure networks, and write the software that watches them. My work sits where three disciplines meet: designing and troubleshooting networks, monitoring and analysing traffic for defence, and shipping full-stack tools that make both easier.
+
+- **Focus** — network engineering, defensive security, tooling
+- **Primary stack** — TypeScript, Python, React, FastAPI, Docker
+- **Environments** — Windows, Kali Linux, Ubuntu
+- **Approach** — map it → capture it → automate it
+
+---
+
+## Core Domains
+
+| Network Engineering | Defensive Security | Software Engineering |
+| :-- | :-- | :-- |
+| IP addressing & subnetting | Packet capture & PCAP analysis | TypeScript / React applications |
+| VLANs, switching & routing | Traffic baselines & detections | Python APIs & capture tooling |
+| Topology design & documentation | Network & host monitoring | 3D & data visualisation |
+| Fault isolation & troubleshooting | Isolated, authorised lab work | Docker, CI & automated tests |
+
+---
+
+## Tech Stack
+
+| Category | Tools |
+| :-- | :-- |
+| **Languages** | `TypeScript` `JavaScript` `Python` `HTML5` `CSS3` `Bash` `PowerShell` |
+| **Frontend** | `React` `Next.js` `Vite` `Tailwind CSS` `Three.js` `React Router` `MDX` |
+| **Backend & Data** | `Node.js` `FastAPI` `Pydantic` `SQLAlchemy` `PostgreSQL` `SQLite` `Zod` |
+| **DevOps & QA** | `Docker` `Git` `GitHub` `GitHub Actions` `Playwright` `Vitest` `ESLint` |
+
+---
+
+## Lab Environment
+
+| System | Role | Use |
+| :-- | :-- | :-- |
+| **Windows** | Workstation | Daily driver and dev box · PowerShell automation · system monitoring tooling |
+| **Kali Linux** | Security lab | Traffic capture and analysis · recon in authorised labs · offensive tooling, defensive use |
+| **Ubuntu** | Server / CLI | Linux administration · Bash scripting · Docker hosts and services |
+
+**Network & security tooling** — Wireshark (protocol analysis) · Scapy (packet crafting) · Cisco Packet Tracer (topology labs) · VirtualBox (isolated VMs)
+
+---
+
+## Projects
+
+### [NEXUS Network Explorer](https://github.com/aum-akkarapong/nexus-network-explorer) — *Featured*
+
+Browser-based 3D digital twin of a factory network, with Pulse monitoring, MES, power systems and simulated device sessions down to the switch port.
+
+`4 floors` · `1,526 devices` · `8 PCB lines`\
+**Stack:** React Three Fiber · Zustand · Python · Docker
+
+### [Sentinel SOC](https://github.com/aum-akkarapong/sentinel-soc)
+
+Self-hosted Security Operations Center and SIEM: real-time detection, alert triage, incident response, threat hunting, threat map and MITRE ATT&CK coverage. Sigma rules, approval-gated SOAR and a tamper-evident audit trail.
+
+`18 modules` · `22 detections` · `12 integrations`\
+**Stack:** FastAPI · Next.js · OpenSearch · PostgreSQL · Redis · Docker
+
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| [**Network Traffic Analyzer**](https://github.com/aum-akkarapong/Network-Traffic-Analyzer) | Defensive monitoring platform with live capture, PCAP analysis and a detection dashboard, backed by FastAPI with SQLite or PostgreSQL storage. | FastAPI · Scapy · PostgreSQL · React |
+| [**Sentinel PC**](https://github.com/aum-akkarapong/sentinel-pc) | Real-time Windows system monitor for CPU, GPU, memory, disk and network, with a guarded process and service manager. Localhost only, no telemetry. | Node.js · PowerShell · React · SQLite |
+| [**Cyber Security Learning**](https://github.com/aum-akkarapong/cyber-security-interactive-learning) | Interactive security curriculum: MDX lessons, flow diagrams, full-text search and an accessibility-tested interface. | React · React Flow · Vitest · Playwright |
+| [**Network Engineer Hub**](https://github.com/aum-akkarapong/network-engineer-learning-hub) | Network engineering curriculum with step-through animations and hands-on tools for addressing, subnetting and routing. Multilingual. | Next.js · next-intl · Shiki · Python |
+
+<sub>Repositories are private — access available on request.</sub>
+
+---
+
+## Contact
+
+Open to network and security collaboration, lab write-ups and tooling.
+
+- **Email** — [aumakkara@gmail.com](mailto:aumakkara@gmail.com)
+- **GitHub** — [github.com/aum-akkarapong](https://github.com/aum-akkarapong)
+- **Location** — Bangkok, Thailand (UTC+7)
