@@ -12,7 +12,7 @@
 
 <br>
 
-**[About](#about)** &nbsp;·&nbsp; **[Featured Work](#work)** &nbsp;·&nbsp; **[Projects](#projects)** &nbsp;·&nbsp; **[Interests](#interests)** &nbsp;·&nbsp; **[Toolkit](#toolkit)** &nbsp;·&nbsp; **[Contact](#contact)**
+**[About](#about)** &nbsp;·&nbsp; **[Projects](#projects)** &nbsp;·&nbsp; **[Interests](#interests)** &nbsp;·&nbsp; **[Toolkit](#toolkit)** &nbsp;·&nbsp; **[Contact](#contact)**
 
 </div>
 
@@ -21,155 +21,81 @@
 <a id="about"></a>
 <img src="assets/sec-about.svg" width="100%" alt="01 — About me">
 
-I'm a network and security engineer based in Bangkok. I build software that makes networks easier to **understand** and **defend** — from 3D models of an entire facility down to the packets crossing a single port.
+I'm Akkarapong, based in Bangkok, focused on **network engineering** and **defensive security**.
 
-My work moves through three layers: **designing** networks, **watching** the traffic that crosses them, and **shipping** tools that make both understandable. Everything follows the same loop: **map it → capture it → automate it.**
+I learn by building. The projects below are how I work through questions like how traffic moves through a network, how a SOC turns raw events into alerts, and how to explain a routing decision clearly. Each one is working software with its own tests and documentation, and this profile tracks that work as it grows.
 
 | Quick facts | |
 | :-- | :-- |
-| **Focus** | Network engineering · defensive security · tooling |
-| **Primary stack** | TypeScript · Python · React · FastAPI · Docker |
-| **Daily systems** | Windows · Kali Linux · Ubuntu |
-| **Working style** | Lab-first, tested, documented |
-
-<table>
-<tr>
-<td width="25%" align="center"><h3>6</h3><sub>Projects built end to end</sub></td>
-<td width="25%" align="center"><h3>378</h3><sub>Interactive lessons authored</sub></td>
-<td width="25%" align="center"><h3>1,526</h3><sub>Devices in a 3D network twin</sub></td>
-<td width="25%" align="center"><h3>22</h3><sub>SOC detections shipped</sub></td>
-</tr>
-</table>
-
-<br>
-
-<a id="work"></a>
-<img src="assets/sec-work.svg" width="100%" alt="02 — Featured work">
-
-### NEXUS Network Explorer
-
-> *Explore the factory. Understand the network. See the impact.*
-
-A browser-based digital twin that connects a four-floor factory, enterprise networking, power systems and PCB production in one interactive 3D model.
-
-| Facility | Network | Operations | Validation |
-| :-: | :-: | :-: | :-: |
-| **4** floors · **8** PCB lines | **1,526** devices · **2,828** links | **142** VLANs · **749** monitored hosts | **283** automated tests |
-
-- Follow the network from the building view down to an individual switch port, cable and VLAN
-- **Pulse** dashboard unifies network health, production, servers, power and alerts
-- **17** incident scenarios walk through detection, impact, failover and recovery
-
-![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-000000?style=flat-square&logo=threedotjs&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square) ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
-
-<br>
-
-### Sentinel SOC
-
-> *Telemetry, detection, triage, incident response and threat intelligence in one command center.*
-
-A self-hosted Security Operations Center and SIEM that runs with a single `docker compose up`.
-
-| Modules | Detections | Integrations | Roles |
-| :-: | :-: | :-: | :-: |
-| **18** | **22** | **12** | **6** built-in · MFA |
-
-- Redis Streams pipeline: parse → normalise → enrich → index → detect → alert, with dead-letter queue and replay
-- Native JSON and **Sigma** rules mapped to **MITRE ATT&CK**; threat hunting, threat map and IOC matching
-- **Approval-gated SOAR**: disruptive actions need a second person; hash-chained, tamper-evident audit log
-
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![OpenSearch](https://img.shields.io/badge/OpenSearch-000000?style=flat-square&logo=opensearch&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
+| **Focus** | Network engineering · defensive security · security tooling |
+| **Core stack** | TypeScript · Python · React · FastAPI · Docker |
+| **Lab** | Windows workstation · Kali Linux security lab · Ubuntu server |
+| **Approach** | Map it → capture it → automate it |
 
 <br>
 
 <a id="projects"></a>
-<img src="assets/sec-projects.svg" width="100%" alt="03 — More projects">
+<img src="assets/sec-projects.svg" width="100%" alt="02 — Projects">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Personal projects, each with its own documentation. Select a card to open the repository.
 
-### Network Traffic Analyzer
+<p align="center">
+<a href="https://github.com/aum-akkarapong/nexus-network-explorer"><img src="assets/card-nexus.svg" width="49%" alt="NEXUS Network Explorer — 3D digital twin of a factory network. View repository."></a>
+<a href="https://github.com/aum-akkarapong/sentinel-soc"><img src="assets/card-soc.svg" width="49%" alt="Sentinel SOC — self-hosted SOC and SIEM. View repository."></a>
+</p>
+<p align="center">
+<a href="https://github.com/aum-akkarapong/Network-Traffic-Analyzer"><img src="assets/card-nta.svg" width="49%" alt="Network Traffic Analyzer — packet capture, decoding and detection. View repository."></a>
+<a href="https://github.com/aum-akkarapong/sentinel-pc"><img src="assets/card-sentinel-pc.svg" width="49%" alt="Sentinel PC — local Windows system monitor. View repository."></a>
+</p>
+<p align="center">
+<a href="https://github.com/aum-akkarapong/cyber-security-interactive-learning"><img src="assets/card-cyber.svg" width="49%" alt="Cyber Security Interactive Learning — interactive security curriculum. View repository."></a>
+<a href="https://github.com/aum-akkarapong/network-engineer-learning-hub"><img src="assets/card-nethub.svg" width="49%" alt="Network Engineer Learning Hub — interactive networking curriculum. View repository."></a>
+</p>
 
-Defensive monitoring platform: live capture or PCAP upload, **L2 → L7** decoding, streaming rule-based detections and a SOC-style dashboard.
+<details>
+<summary><b>Project highlights</b> — key details from each project</summary>
 
-- DNS, HTTP and TLS (SNI, ALPN, cipher) parsed from cleartext only
-- HTTPS is never decrypted; passive analysis only
+<br>
 
-`FastAPI` `Scapy` `PostgreSQL` `React`
+| Project | Highlights |
+| :-- | :-- |
+| **NEXUS Network Explorer** | Trace the network from a building view down to a single switch port, cable and VLAN · 17 incident scenarios walk through detection, impact, failover and recovery · 283 automated tests |
+| **Sentinel SOC** | Event pipeline (parse → normalise → enrich → detect → alert) on Redis Streams · Sigma rules mapped to MITRE ATT&CK · disruptive SOAR actions require a second approver · tamper-evident audit log |
+| **Network Traffic Analyzer** | One ingestion pipeline for live capture and PCAP files · DNS, HTTP and TLS metadata parsed from cleartext only · HTTPS is never decrypted |
+| **Sentinel PC** | Unsupported sensors show *unavailable* instead of a guessed value · process and service actions are re-checked, confirmed and audited · runs on `127.0.0.1` only |
+| **Cyber Security Learning** | 235 lessons in 19 modules · 172 animated scenes · 14 guided labs · content validated against schemas at build time |
+| **Network Engineer Learning Hub** | 143 lessons in 18 tracks · tools for subnetting, VLSM, OSPF, BGP and ACLs · aligned with CCNA 200-301 topics |
 
-</td>
-<td width="50%" valign="top">
-
-### Sentinel PC
-
-A local, real-time Windows system monitor that never guesses: every reading carries its source and status.
-
-- **500 ms** cadence · **12** metric cards · **24 h** history
-- Guarded process & service manager with audit log
-- `127.0.0.1` only · **0** telemetry
-
-`Node.js` `PowerShell` `React` `SQLite`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Cyber Security Interactive Learning
-
-Learn how systems are attacked, detected and defended by watching it happen: concept → animation → lab → quiz.
-
-- **235** lessons · **19** modules · **172** animated scenes
-- **19** attack simulations · **14** labs · **716** quiz questions
-
-`React` `React Flow` `Vitest` `Playwright`
-
-</td>
-<td width="50%" valign="top">
-
-### Network Engineer Learning Hub
-
-*Read it. See it. Watch it happen.* A network curriculum from cables and frames to routing, security, cloud and design.
-
-- **143** lessons · **18** tracks · **70** interactives
-- **270** glossary terms · CCNA 200-301 aligned
-
-`Next.js` `next-intl` `Shiki` `Python`
-
-</td>
-</tr>
-</table>
-
-<p align="center"><sub>Repositories are private — access available on request.</sub></p>
+</details>
 
 <br>
 
 <a id="interests"></a>
-<img src="assets/sec-interests.svg" width="100%" alt="04 — What I care about">
+<img src="assets/sec-interests.svg" width="100%" alt="03 — Interests">
 
-**Areas I keep coming back to**
+The areas I keep returning to, and the projects where they show up:
 
-| Interest | Why it matters to me | Where it shows up |
+| Area | What draws me to it | Explored in |
 | :-- | :-- | :-- |
-| **Network visibility** | You can't defend or fix what you can't see — I like making infrastructure visible, down to the port. | NEXUS · Traffic Analyzer |
-| **Detection engineering** | Turning raw telemetry into alerts an analyst can trust and act on. | Sentinel SOC · Traffic Analyzer |
-| **Teaching through visuals** | Networks and attacks are sequences of events, so I show them as animations, not walls of text. | Security Learning · Network Hub |
-| **Trustworthy tooling** | Local-first, no telemetry, and honest about what the data does and doesn't say. | Sentinel PC · Sentinel SOC |
+| **Network visibility** | Understanding how infrastructure is actually connected — topology, VLANs and the path down to an individual port. | NEXUS · Traffic Analyzer |
+| **Traffic analysis & detection** | Reading packets and turning raw telemetry into alerts that are explainable and worth acting on. | Traffic Analyzer · Sentinel SOC |
+| **SOC operations** | The analyst workflow end to end: triage, investigation, incident response and controlled automation. | Sentinel SOC · Cyber Security Learning |
+| **Explaining systems visually** | Networks and attacks are sequences of events, so step-through animations explain them better than text alone. | Cyber Security Learning · Network Hub |
+| **Transparent, local-first tools** | Software that runs on your own machine, sends nothing out, and is clear about where every number comes from. | Sentinel PC |
 
 **How I build**
 
 | Principle | In practice |
 | :-- | :-- |
-| **Defensive by design** | Tools analyse passively, run in isolated labs, and gate disruptive actions behind confirmation or a second approver. |
-| **Honest data** | A missing sensor reads *unavailable*, demo data is labelled *DEMO*, and live sources show as connected only after a real test. |
-| **Explain, don't just display** | Every system I build tries to show *why* — the packet path, the failed uplink, the source of each number. |
+| **Defensive by design** | Analysis is passive, lab work stays isolated and authorised, and disruptive actions need confirmation or a second approver. |
+| **Honest data** | Missing sensors read *unavailable*, demo data is labelled as demo, and live sources show as connected only after a real test. |
+| **Explain, don't just display** | Show the reason behind a result — the packet path, the failed uplink, the source of a reading. |
 | **Tested and reproducible** | Automated tests, schema-validated content and one-command Docker setups. |
 
 <br>
 
 <a id="toolkit"></a>
-<img src="assets/sec-toolkit.svg" width="100%" alt="05 — Toolkit">
+<img src="assets/sec-toolkit.svg" width="100%" alt="04 — Toolkit">
 
 | Category | Tools |
 | :-- | :-- |
@@ -183,16 +109,16 @@ Learn how systems are attacked, detected and defended by watching it happen: con
 
 | System | Role | Used for |
 | :-- | :-- | :-- |
-| **Windows** | Workstation | Daily driver and dev box · PowerShell automation · system monitoring tooling |
-| **Kali Linux** | Security lab | Traffic capture and analysis · recon in authorised labs · offensive tooling, defensive use |
+| **Windows** | Workstation | Daily development · PowerShell automation · system monitoring tools |
+| **Kali Linux** | Security lab | Traffic capture and analysis · reconnaissance in authorised labs only |
 | **Ubuntu** | Server / CLI | Linux administration · Bash scripting · Docker hosts and services |
 
 <br>
 
 <a id="contact"></a>
-<img src="assets/sec-contact.svg" width="100%" alt="06 — Get in touch">
+<img src="assets/sec-contact.svg" width="100%" alt="05 — Get in touch">
 
-Open to network and security collaboration, lab write-ups and tooling. If something here interests you, or you'd like access to one of the private repositories, email is the fastest way to reach me.
+I'm open to collaborating on network and security projects, lab write-ups and tooling. For questions about any of the projects above, email is the best way to reach me.
 
 <a href="mailto:aumakkara@gmail.com"><img src="https://img.shields.io/badge/Email-aumakkara%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/aum-akkarapong"><img src="https://img.shields.io/badge/GitHub-aum--akkarapong-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
